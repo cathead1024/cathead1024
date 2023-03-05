@@ -7,7 +7,8 @@
     </a>
   </div>
   <!-- knock code pictures 第一章动图 -->
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
+  <br>
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
@@ -23,6 +24,8 @@
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 
+  <!-- GitHub 奖杯🏆 -->
+  <img src="https://github-profile-trophy.vercel.app/?username=cathead1024&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" />
 </div>
 
 # 👋 Hello
@@ -38,12 +41,14 @@
 <p>&emsp;&emsp;大家好，我是黑心皮蛋</p>
 <p>&emsp;&emsp;目前就读于古古怪界皮蛋工厂大学</p>
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，更热爱生活！</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
+<p>&emsp;&emsp;等等我，我还在努力......</p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 <p>&emsp;&emsp;长风破浪会有时，直挂云帆济沧海。我开始得太晚了，但总不算太迟。春华秋实，努力一定会有收获，一枚学渣正在悄悄蜕变...</p>
 </td></tr>
 <tr>
-<tr><td>
+<tr>
+
+<td>
 
 ### 🤾‍♂️ 观影记录
 
@@ -63,10 +68,23 @@
 <!--彩色分割线 -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
+
+<div align="center" >
+<h2 align="center">GitHub Stats:</h3>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=cathead1024&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="cathead1024" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=cathead1024&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true" alt="cathead1024" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cathead1024&border=D3D3D3&sideNums=7A7ADB&background=130F40&stroke=6842DB&currStreakNum=7A7ADB&ring=5B3CDD&fire=D3D351&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=A3A3A3"  alt="cathead1024"/>
+</div>
+
 <div align="center" >
 
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
+
+
 
 <!--  skill badge 技能徽章 -->
 💪 正在学习
@@ -130,18 +148,8 @@
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 
-<!-- profile-3d-contrib 3D贡献图-->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" />
-</div>
-
 <!--彩虹分割线--> 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-
-<div align="center" >
-
-<!-- Quotes 名人名言 -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
-
-<!-- GitHub 奖杯🏆 -->
-<img  src="https://github-profile-trophy.vercel.app/?username=cathead1024&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
+<br/>
+<p align="center">建设中</p>
 </div>
