@@ -18,7 +18,7 @@
     <a href="https://leetcode.cn/u/cathead1024/"><img src="https://img.shields.io/badge/leetcode-力扣-yellow" /></a>&emsp;
     <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/zhihu-知乎-9cf" /></a>&emsp;
     <!-- visitor statistics logo 访客数统计徽标 -->
-    <img src="https://visitor-badge.glitch.me/badge?page_id=cathead1024" alt="访客统计" />
+    <img src="https://visitor-badge.glitch.me/badge?page_id=cathead1024" alt="访客统计" title="访客统计" />
   </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
